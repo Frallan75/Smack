@@ -1,2 +1,3 @@
 # Smack
-Smack is a smashing app
+Smack is a smashing app - a Slack clone!
+
